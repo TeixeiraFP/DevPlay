@@ -1,0 +1,59 @@
+.header{
+    background-color: #030e41; 
+    height: 100px;
+    padding: 25px;
+    color: rgb(236, 13, 13);
+}
+
+.titulo-principal{      
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px ; 
+    font-style: italic;
+    text-align: center; 
+}
+
+.container-principal-gameOver{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: rgb(252, 75, 52);
+
+    height: 350px;
+
+    padding: 50px 0;
+}
+
+.texto-gameOver-titulo{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+
+    font-weight: bolder;
+    
+    text-align: center;
+}
+
+.texto-gameOVer{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+
+    font-weight: bolder;
+    
+    text-align: center;
+}
+
+.navegacao{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+    font-weight: bolder;
+    
+    text-align: center;
+    font-style: none;
+}
+
+.footer{
+    height: 150px;
+    background-color: #030e41;
+}
