@@ -77,9 +77,9 @@ function fase (terceiraFase)
         
                     <nav class="navegacao">
                         Você que escolhe: <br><br>
-                        Deseja continuar com o mesmo avatar?<br>
+                        Deseja continuar com o mesmo avatar?<br><br>
                         <a class = linkNav href="../PrimeiraFase-Pacheco/index.html">Volte ao primeiro desafio</a><br><br>
-                        Se você preferir pode escolher outro jogador.<br>
+                        Se você preferir pode escolher outro jogador.<br><br>
                         <a class = linkNav href="../index.html">Volte ao início do jogo</a>
                     </nav> 
 

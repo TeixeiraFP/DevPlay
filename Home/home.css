@@ -67,6 +67,8 @@
 
 .personagens :hover{
     font-weight: bold;
+    color: rgb(236, 13, 13);
+    font-size: 22px;
     
 }
 
@@ -84,6 +86,8 @@
     text-align: center;
     color: black;
 }
+
+
 
 .personagens-descricao{
     

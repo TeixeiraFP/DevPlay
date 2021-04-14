@@ -33,6 +33,22 @@
     padding: 30px 0;
 }
 
+.botaoNav{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(236, 13, 13);
+    border: 2px solid rgb(236, 13, 13);
+    background-color: #030e41;
+    padding: 15px 15px;
+    border-radius: 1em;
+}
+
+.botaoNav :hover{
+    
+    font-weight: bolder;
+    
+}
+
 .footer{
     height: 150px;
     background-color: #030e41;

@@ -53,6 +53,16 @@
     font-style: none;
 }
 
+.linkNav{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(236, 13, 13);
+    border: 2px solid black;
+    background-color: #030e41;
+    padding: 15px 15px;
+    border-radius: 1em;
+}
+
 .footer{
     height: 150px;
     background-color: #030e41;
