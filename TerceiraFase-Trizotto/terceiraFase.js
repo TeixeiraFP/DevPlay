@@ -80,7 +80,7 @@ function fase (segundaFase)
                     Deseja continuar com o mesmo avatar?<br><br>
                     <a class = linkNav href="../PrimeiraFase-Trizotto/index.html">Volte ao primeiro desafio</a><br><br>
                     Se você preferir pode escolher outro jogador.<br>
-                    <a class = linkNav href="../index.html">Volte ao início do jogo</a>
+                    <a class = linkNav href="../Home/index.html">Volte ao início do jogo</a>
                     </nav> 
 
             
