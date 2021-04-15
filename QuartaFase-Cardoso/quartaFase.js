@@ -34,7 +34,7 @@ function fase (terceiraFase)
                     
                 </p>
             
-                <a class="botaoNav" href="../index.html">Volte ao início.</a>
+                <a class="botaoNav" href="../Home/index.html">Volte ao início.</a>
             
             </main>
             
