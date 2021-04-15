@@ -66,9 +66,9 @@
 }
 
 .personagens :hover{
-    font-weight: bold;
+    font-weight: bolder;
     color: rgb(236, 13, 13);
-    font-size: 22px;
+    
     
 }
 
